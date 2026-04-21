@@ -72,26 +72,6 @@ The project consists of the following tables:
 - Analyze deposits & withdrawals  
 - Filter active loans  
 
----
-
-## 📸 Project Outputs (Screenshots)
-
-### 🔹 Customers Table
-![Customers](screenshots/customers.png)
-
-### 🔹 Accounts Table
-![Accounts](screenshots/accounts.png)
-
-### 🔹 Transactions Table
-![Transactions](screenshots/transactions.png)
-
-### 🔹 Queries Output
-![Queries](screenshots/queries.png)
-
-> 📌 *Note: Add your screenshots inside a folder named `screenshots` in your repository.*
-
----
-
 ## 🚀 How to Run
 
 1. Install MySQL  
