@@ -1,4 +1,4 @@
-# UNP_PRPJECT_BANKING_DATA_USING_MYSQL
+# UNP_PROJECT_BANKING_DATA_USING_MYSQL
 # 🏦 Banking Database Analysis using MySQL
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
