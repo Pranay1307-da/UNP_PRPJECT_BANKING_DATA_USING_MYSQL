@@ -72,10 +72,3 @@ The project consists of the following tables:
 - Analyze deposits & withdrawals  
 - Filter active loans  
 
-## 🚀 How to Run
-
-1. Install MySQL  
-2. Open MySQL Workbench / CLI  
-3. Run the SQL script:
-   ```sql
-   SOURCE banking_project.sql;
